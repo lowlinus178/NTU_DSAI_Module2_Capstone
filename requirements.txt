@@ -1,0 +1,10 @@
+pandas
+requests
+pydantic-settings
+python-dotenv
+dagster
+dagster-webserver
+streamlit
+plotly
+numpy
+great_expectations
